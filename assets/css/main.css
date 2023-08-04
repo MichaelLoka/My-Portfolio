@@ -2498,6 +2498,15 @@ input[type="button"]:disabled,
     color: inherit;
 }
 
+#footer .inner2 img {
+    width: 50px;
+    text-decoration: none;
+}
+
+.inner2 {
+    text-decoration: none;
+}
+
 
 /* Main */
 
