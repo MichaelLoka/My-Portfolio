@@ -1844,6 +1844,10 @@ input[type="radio"]+label:before {
     font-family: 'Font Awesome 5 Brands';
 }
 
+#one h2 {
+    margin-bottom: 20px !important;
+}
+
 
 /* Image */
 
@@ -2500,11 +2504,7 @@ input[type="button"]:disabled,
 
 #footer .inner2 img {
     width: 50px;
-    text-decoration: none;
-}
-
-.footer-icons {
-    text-decoration: none;
+    text-decoration: none !important;
 }
 
 
@@ -2513,7 +2513,7 @@ input[type="button"]:disabled,
 #main {
     margin-left: 35%;
     max-width: 54em;
-    padding: 8em 4em 4em 4em;
+    padding: 4em;
     width: calc(100% - 35%);
 }
 
