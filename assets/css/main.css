@@ -3006,4 +3006,8 @@ body.is-touch .poptrox-popup .closer {
         margin-left: 0;
         padding-left: 0;
     }
+    /* Certs */
+    #three .row img {
+        height: auto;
+    }
 }
